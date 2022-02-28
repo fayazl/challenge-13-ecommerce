@@ -15,4 +15,4 @@ Github URL: https://github.com/fayazl/challenge-13-ecommerce
 
 Walkthrough video: https://drive.google.com/file/d/1akYFwsN858kano7NCRkITbUun4hl3mzk/view
 
-## If the video is not showing in the browser, please use the downbload option for quicker results.
+## If the video is not showing in the browser, please use the download option for quicker results.
